@@ -1,5 +1,5 @@
-baseURL = 'https://geekifan.github.io/zero-academic-page-starter/'
-title = 'Zero'
+baseURL = 'https://fengwz17.github.io'
+title = 'Weizhi Feng'
 
 # multi-language support
 defaultContentLanguage = 'en'
@@ -21,9 +21,9 @@ disableKinds = ["taxonomy", "term", "RSS"]
     title = 'Zero'
 
     [languages.en.params]
-      author = "Lorem ipsum"
-      description = "Ph.D Student in [Lorem ipsum College](https://example.com). Focusing on Computer Vision and Deep Learning."
-      motto = "Most things in the world are not that important. But truth and love matter."
+      author = "Weizhi Feng"
+      description = "Ph.D Student in [ISCAS](https://iscas.ac.cn). Focusing on [Formal Verification](https://en.wikipedia.org/wiki/Formal_verification)(Software/Hardware/LLM)."
+      motto = "."
     
     [[languages.en.menu.main]]
       name = 'About Me'
@@ -60,9 +60,9 @@ disableKinds = ["taxonomy", "term", "RSS"]
     title = '学术主页'
     
     [languages.zh.params]
-      author = "王小明"
-      description = "某某大学博士生，专注于计算机视觉与深度学习"
-      motto = "世界上大部分事，都没有太大意义。真理与爱除外。"
+      author = "冯维直"
+      description = "中国科学院软件研究所博士生，形式化方法"
+      motto = ""
     
     [[languages.zh.menu.main]]
       name = '关于我'
@@ -99,24 +99,16 @@ disableKinds = ["taxonomy", "term", "RSS"]
   
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/fengwz17"
     icon = "fab fa-github"
   [[params.social]]
-    name = "google-scholar"
-    url = "https://scholar.google.com/"
+    name = "dblp"
+    url = "https://dblp.org/pid/278/3051.html"
     icon = "fab fa-google-scholar"
   [[params.social]]
     name = "email"
-    url = "mailto:example@example.com"
+    url = "fengwzATios.ac.cn"
     icon = "fas fa-envelope"
-  [[params.social]]
-    name = "linkedin"
-    url = "https://linkedin.com/"
-    icon = "fab fa-linkedin"
-  [[params.social]]
-    name = "zhihu"
-    url = "https://zhihu.com/"
-    icon = "fab fa-zhihu"
 
 [build]
   writeStats = false
