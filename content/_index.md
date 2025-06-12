@@ -8,7 +8,8 @@ I'm a Ph.D student at the [Verification of System Software Group](https://versys
 
 
 My research interest includes *Formal Verification for Software and Hardware Programs*, and *Large Language Model assisted Formal Methods*.
-**My [resume](files/WeizhiFengCV.pdf)!**
+
+**My [resume](files/WeizhiFengCV.pdf)**
 
 <!-- # 🔥 News {#news}
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
