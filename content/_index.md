@@ -4,11 +4,10 @@ title: "Weizhi Feng (冯维直)'s Homepage"
 
 # About Me {#about-me}
 
-I'm a Ph.D student at the [Verification of System Software Group](https://versys.ios.ac.cn/) in the [Institute of Software, Chinese Academy of Sciences](https://www.iscas.ac.cn) (ISCAS), supervised by [Prof. Lijun Zhang](https://tis.ios.ac.cn/people/lijun-zhang/) and [Prof. Zhilin Wu](https://lcs.ios.ac.cn/~wuzl/). I previously earned a Bachelor's degree in Computer Science and Technology at EECS, Peking University. 
+I'm a Ph.D student at the [Verification of System Software Group](https://versys.ios.ac.cn/) in the [Institute of Software, Chinese Academy of Sciences](https://www.iscas.ac.cn) (ISCAS), supervised by [Prof. Lijun Zhang](https://tis.ios.ac.cn/people/lijun-zhang/) and [Prof. Zhilin Wu](https://lcs.ios.ac.cn/~wuzl/). I previously earned a Bachelor's degree in Computer Science and Technology at the [School of EECS](https://eecs.pku.edu.cn/), Peking University. 
 
 
-My research interest includes Formal Verification for Software and Hardware programs, and Large Language Models for Formal Verification.
-
+My research interest includes *Formal Verification for Software and Hardware Programs*, and *Large Language Model assisted Formal Methods*.
 **My [resume](files/WeizhiFengCV.pdf)!**
 
 <!-- # 🔥 News {#news}
@@ -36,16 +35,14 @@ My research interest includes Formal Verification for Software and Hardware prog
   in International Symposium on Dependable Software Engineering: Theories, Tools, and Applications (**SETTA**), 2020. <br>
 
 # 🎖 Honors and Awards {#honors-and-awards}
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* First-Class Graduate Academic Scholarship. 
 
 # 📖 Educations {#educations}
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - (now)*, Institute of Software, Chinese Academy of Sciences. Computer Software and Thoery, Ph.D Candidate. 
+- *2015.09 - 2019.06*, School of EECS, Peking University. Computer Science and Technology, B.S.
 
-# 💬 Invited Talks {#invited-talks}
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Talks {#invited-talks}
+- *2024.06*, in the 61st ACM/IEEE Design Automation Conference (DAC), San Francisco, United States.
 
 # 💻 Internships {#internships}
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.12 - (now)*, [Ant Reasearch](https://www.antresearch.com/), Beijing, China.

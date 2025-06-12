@@ -1,34 +1,45 @@
 ---
-title: "王小明"
+title: "冯维直个人主页"
 ---
 
 # 关于我 {#about-me}
 
-我是王小明，目前专注于自然语言处理和计算机视觉领域的研究。我的研究兴趣包括神经机器翻译、图像生成和多模态学习。我在国际顶级人工智能会议上发表了超过100篇论文，总引用数超过<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>Google Scholar引用<strong><span id='total_cit'>260000+</span></strong></a>。
+中国科学院软件研究所在读博士生，研究方向为形式化验证。我的研究兴趣包括软件和硬件程序的形式化验证、模型检测算法和大模型辅助形式化方法等。
+**我的简历 [resume](files/WeizhiFengCV.pdf)!**
 
-# 🔥 最新动态 {#news}
+<!-- # 🔥 最新动态 {#news}
 - *2023.10*: &nbsp;🎉🎉 我们的论文《多模态学习的最新进展》被NeurIPS 2023接收！
-- *2023.09*: &nbsp;🎉🎉 受邀参加2023年全球人工智能峰会并作主题演讲。
+- *2023.09*: &nbsp;🎉🎉 受邀参加2023年全球人工智能峰会并作主题演讲。 -->
 
-# 📝 代表性论文 {#publications}
+# 📝 发表论文 {#publications}
 
-- ***[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)*** <br>
-  Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
-  in Conference on Neural Information Processing Systems (**Neurips**), 2023. <br>
-  <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
+- ***[Formally Verifying Arithmetic Chisel Designs for All Bit Widths at Once.](https://dl.acm.org/doi/10.1145/3649329.3657311)*** <br>
+  Weizhi Feng, Yicheng Liu, Jiaxiang Liu, David N Jansen, Lijun Zhang, Zhilin Wu.
+  in 61st ACM/IEEE Design Automation Conference (**DAC**), 2024. <br>
+  <!-- <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a> -->
+
+- ***[On the power of finite ambiguity in Büchi complementation.](https://www.sciencedirect.com/science/article/abs/pii/S0890540123000330)*** <br>
+  Weizhi Feng, Yong Li, Andrea Turrini, Moshe Y. Vardi, Lijun Zhang.
+  in Inf. Comput. (**I&C**), 2023. <br>
+
+- ***[Divide-and-Conquer Determinization of Büchi Automata Based on SCC Decomposition.](https://arxiv.org/abs/2206.13739)*** <br>
+  Yong Li, Andrea Turrini, Weizhi Feng, Moshe Y. Vardi, Lijun Zhang.
+  in International Conference on Computer Aided Verification (**CAV**), 2022. <br>
+
+- ***[Modelling and Implementation of Unmanned Aircraft Collision Avoidance.](https://link.springer.com/chapter/10.1007/978-3-030-62822-2_4)*** <br>
+  Weizhi Feng, Cheng-Chao Huang, Andrea Turrini, Yong Li.
+  in International Symposium on Dependable Software Engineering: Theories, Tools, and Applications (**SETTA**), 2020. <br>
 
 # 🎖 荣誉与奖项 {#honors-and-awards}
-- *2022.12* 荣获2022年度最佳论文奖。
-- *2021.10* 入选2021年度全球顶尖青年科学家榜单。
+- *2024.12* 研究生一等学业奖学金。
 
 # 📖 教育背景 {#educations}
-- *2019.09 - 2023.06 (预计)*, 清华大学，计算机科学与技术，博士研究生。
-- *2015.09 - 2019.06*, 北京大学，计算机科学与技术，本科。
+- *2019.09 - *, 中国科学院软件研究所，计算机软件与理论，博士研究生。
+- *2015.09 - 2019.06*, 北京大学信息科学技术学院，计算机科学与技术，本科。
 
-# 💬 受邀报告 {#invited-talks}
-- *2023.05*, 在2023年全球人工智能峰会上作主题演讲《多模态学习的前沿进展》。
-- *2022.11*, 在2022年亚洲计算机视觉大会上作特邀报告《神经机器翻译的最新进展》。 \| [\[视频\]](https://github.com/)
+# 💬 报告 {#invited-talks}
+- *2024.06*, DAC会议报告。
+
 
 # 💻 实习经历 {#internships}
-- *2020.07 - 2021.02*, [腾讯AI Lab](https://ai.tencent.com/), 中国深圳。
-- *2019.05 - 2019.08*, [微软亚洲研究院](https://www.msra.cn/), 中国北京。
+- *2024.12 - *, [蚂蚁研究院](https://www.antresearch.com/), 中国北京。
