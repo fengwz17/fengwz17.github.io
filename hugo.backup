@@ -1,0 +1,119 @@
+baseURL = 'https://fengwz17.github.io'
+title = 'Weizhi Feng'
+
+# multi-language support
+defaultContentLanguage = 'en'
+
+# enable git info
+enableGitInfo = true
+
+# disable taxonomy, term and RSS (which removes categories, tags and index.xml)
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[module]
+  [[module.imports]]
+    path = 'github.com/geekifan/zero-academic-page'
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    weight = 1
+    title = 'Zero'
+
+    [languages.en.params]
+      author = "Weizhi Feng"
+      description = "Ph.D Student in [ISCAS](https://iscas.ac.cn). Focusing on [Formal Verification](https://en.wikipedia.org/wiki/Formal_verification)(Software/Hardware/LLM)."
+      motto = "."
+    
+    [[languages.en.menu.main]]
+      name = 'About Me'
+      url = '#about-me'
+      weight = 1
+    [[languages.en.menu.main]]
+      name = 'News'
+      url = '#news'
+      weight = 2
+    [[languages.en.menu.main]]
+      name = 'Publications'
+      url = '#publications'
+      weight = 3
+    [[languages.en.menu.main]]
+      name = 'Honors and Awards'
+      url = '#honors-and-awards'
+      weight = 4
+    [[languages.en.menu.main]]
+      name = 'Educations'
+      url = '#educations'
+      weight = 5
+    [[languages.en.menu.main]]
+      name = 'Talks'
+      url = '#talks'
+      weight = 6
+    [[languages.en.menu.main]]
+      name = 'Internships'
+      url = '#internships'
+      weight = 7
+      
+  [languages.zh]
+    languageName = '中文'
+    weight = 2
+    title = '学术主页'
+    
+    [languages.zh.params]
+      author = "冯维直"
+      description = "中国科学院软件研究所博士生，形式化方法"
+      motto = ""
+    
+    [[languages.zh.menu.main]]
+      name = '关于我'
+      url = '#about-me'
+      weight = 1
+    [[languages.zh.menu.main]]
+      name = '新闻'
+      url = '#news'
+      weight = 2
+    [[languages.zh.menu.main]]
+      name = '发表论文'
+      url = '#publications'
+      weight = 3
+    [[languages.zh.menu.main]]
+      name = '荣誉与奖项'
+      url = '#honors-and-awards'
+      weight = 4
+    [[languages.zh.menu.main]]
+      name = '教育背景'
+      url = '#educations'
+      weight = 5
+    [[languages.zh.menu.main]]
+      name = '受邀报告'
+      url = '#invited-talks'
+      weight = 6
+    [[languages.zh.menu.main]]
+      name = '实习经历'
+      url = '#internships'
+      weight = 7
+
+[params]
+  profilePicture = "images/profile.png"
+  enableDarkMode = true
+  
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/fengwz17"
+    icon = "fab fa-github"
+  [[params.social]]
+    name = "dblp"
+    url = "https://dblp.org/pid/278/3051.html"
+    icon = "fab fa-google-scholar"
+  [[params.social]]
+    name = "email"
+    url = "fengwzATios.ac.cn"
+    icon = "fas fa-envelope"
+
+[build]
+  writeStats = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
