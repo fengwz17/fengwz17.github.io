@@ -55,7 +55,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
       weight = 7
       
 [params]
-  profilePicture = "images/WechatIMG103.jpg"
+  profilePicture = "images/WechatIMG105.jpg"
   enableDarkMode = true
   
   [[params.social]]
