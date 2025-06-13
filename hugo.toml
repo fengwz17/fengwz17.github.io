@@ -46,53 +46,14 @@ disableKinds = ["taxonomy", "term", "RSS"]
       url = '#educations'
       weight = 5
     [[languages.en.menu.main]]
-      name = 'Invited Talks'
-      url = '#invited-talks'
+      name = 'Talks'
+      url = '#talks'
       weight = 6
     [[languages.en.menu.main]]
       name = 'Internships'
       url = '#internships'
       weight = 7
       
-  [languages.zh]
-    languageName = '中文'
-    weight = 2
-    title = '学术主页'
-    
-    [languages.zh.params]
-      author = "冯维直"
-      description = "中国科学院软件研究所博士生，形式化方法"
-      motto = ""
-    
-    [[languages.zh.menu.main]]
-      name = '关于我'
-      url = '#about-me'
-      weight = 1
-    [[languages.zh.menu.main]]
-      name = '新闻'
-      url = '#news'
-      weight = 2
-    [[languages.zh.menu.main]]
-      name = '发表论文'
-      url = '#publications'
-      weight = 3
-    [[languages.zh.menu.main]]
-      name = '荣誉与奖项'
-      url = '#honors-and-awards'
-      weight = 4
-    [[languages.zh.menu.main]]
-      name = '教育背景'
-      url = '#educations'
-      weight = 5
-    [[languages.zh.menu.main]]
-      name = '受邀报告'
-      url = '#invited-talks'
-      weight = 6
-    [[languages.zh.menu.main]]
-      name = '实习经历'
-      url = '#internships'
-      weight = 7
-
 [params]
   profilePicture = "images/profile.png"
   enableDarkMode = true
@@ -102,8 +63,8 @@ disableKinds = ["taxonomy", "term", "RSS"]
     url = "https://github.com/fengwz17"
     icon = "fab fa-github"
   [[params.social]]
-    name = "dblp"
-    url = "https://dblp.org/pid/278/3051.html"
+    name = "google scholar"
+    url = "https://scholar.google.com/citations?user=DXxyULUAAAAJ&hl=en&authuser=1&oi=ao"
     icon = "fab fa-google-scholar"
   [[params.social]]
     name = "email"
