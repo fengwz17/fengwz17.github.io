@@ -16,23 +16,23 @@ My research interest includes *Formal Verification for Software and Hardware Pro
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
-# 📝 Publications {#publications}
+# 📝 [Publications](https://dblp.org/pid/278/3051.html) {#publications}
 
 - ***[Formally Verifying Arithmetic Chisel Designs for All Bit Widths at Once.](https://dl.acm.org/doi/10.1145/3649329.3657311)*** <br>
-  Weizhi Feng, Yicheng Liu, Jiaxiang Liu, David N Jansen, Lijun Zhang, Zhilin Wu.
+  **Weizhi Feng**, Yicheng Liu, Jiaxiang Liu, David N Jansen, Lijun Zhang, Zhilin Wu.
   in 61st ACM/IEEE Design Automation Conference (**DAC**), 2024. <br>
   <!-- <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a> -->
 
 - ***[On the power of finite ambiguity in Büchi complementation.](https://www.sciencedirect.com/science/article/abs/pii/S0890540123000330)*** <br>
-  Weizhi Feng, Yong Li, Andrea Turrini, Moshe Y. Vardi, Lijun Zhang.
-  in Inf. Comput. (**I&C**), 2023. <br>
+  **Weizhi Feng**, Yong Li, Andrea Turrini, Moshe Y. Vardi, Lijun Zhang.
+  in Inf. Comput. (**IANDC**), 2023. <br>
 
 - ***[Divide-and-Conquer Determinization of Büchi Automata Based on SCC Decomposition.](https://arxiv.org/abs/2206.13739)*** <br>
-  Yong Li, Andrea Turrini, Weizhi Feng, Moshe Y. Vardi, Lijun Zhang.
+  Yong Li, Andrea Turrini, **Weizhi Feng**, Moshe Y. Vardi, Lijun Zhang.
   in International Conference on Computer Aided Verification (**CAV**), 2022. <br>
 
 - ***[Modelling and Implementation of Unmanned Aircraft Collision Avoidance.](https://link.springer.com/chapter/10.1007/978-3-030-62822-2_4)*** <br>
-  Weizhi Feng, Cheng-Chao Huang, Andrea Turrini, Yong Li.
+  **Weizhi Feng**, Cheng-Chao Huang, Andrea Turrini, Yong Li.
   in International Symposium on Dependable Software Engineering: Theories, Tools, and Applications (**SETTA**), 2020. <br>
 
 # 🎖 Honors and Awards {#honors-and-awards}

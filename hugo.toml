@@ -68,7 +68,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     icon = "fab fa-google-scholar"
   [[params.social]]
     name = "email"
-    url = "fengwzATios.ac.cn"
+    url = "fengwz@ios.ac.cn"
     icon = "fas fa-envelope"
 
 [build]
