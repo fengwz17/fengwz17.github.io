@@ -16,7 +16,7 @@ My research interest includes *Formal Verification for Software and Hardware Pro
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
-# 📝 [Publications](https://dblp.org/pid/278/3051.html) {#publications}
+# [Publications](https://dblp.org/pid/278/3051.html) {#publications}
 
 - ***[Formally Verifying Arithmetic Chisel Designs for All Bit Widths at Once.](https://dl.acm.org/doi/10.1145/3649329.3657311)*** <br>
   **Weizhi Feng**, Yicheng Liu, Jiaxiang Liu, David N Jansen, Lijun Zhang, Zhilin Wu.
@@ -35,15 +35,15 @@ My research interest includes *Formal Verification for Software and Hardware Pro
   **Weizhi Feng**, Cheng-Chao Huang, Andrea Turrini, Yong Li.
   in International Symposium on Dependable Software Engineering: Theories, Tools, and Applications (**SETTA**), 2020. <br>
 
-# 🎖 Honors and Awards {#honors-and-awards}
+# Honors and Awards {#honors-and-awards}
 - *2024.12* First-Class Graduate Academic Scholarship. 
 
-# 📖 Educations {#educations}
+# Educations {#educations}
 - *2019.06 - (now)*, Institute of Software, Chinese Academy of Sciences. Computer Software and Thoery, Ph.D Candidate. 
 - *2015.09 - 2019.06*, School of EECS, Peking University. Computer Science and Technology, B.S.
 
-# 💬 Talks {#invited-talks}
+# Talks {#invited-talks}
 - *2024.06*, in the 61st ACM/IEEE Design Automation Conference (DAC), San Francisco, United States.
 
-# 💻 Internships {#internships}
+# Internships {#internships}
 - *2024.12 - (now)*, [Ant Reasearch](https://www.antresearch.com/), Beijing, China.
