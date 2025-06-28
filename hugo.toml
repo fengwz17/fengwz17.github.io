@@ -67,8 +67,12 @@ disableKinds = ["taxonomy", "term", "RSS"]
     url = "https://scholar.google.com/citations?user=DXxyULUAAAAJ&hl=en&authuser=1&oi=ao"
     icon = "fab fa-google-scholar"
   [[params.social]]
+    name = "orcid"
+    url = "https://orcid.org/0000-0003-0710-223X"
+    icon = "fab fa-orcid"
+  [[params.social]]
     name = "email"
-    url = "fengwz@ios.ac.cn"
+    url = "mailto:shensd@ios.ac.cn"
     icon = "fas fa-envelope"
 
 [build]
