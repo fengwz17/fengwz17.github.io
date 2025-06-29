@@ -72,7 +72,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     icon = "fab fa-orcid"
   [[params.social]]
     name = "email"
-    url = "mailto:shensd@ios.ac.cn"
+    url = "mailto:fengwz@ios.ac.cn"
     icon = "fas fa-envelope"
 
 [build]
