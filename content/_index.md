@@ -13,9 +13,9 @@ Contact me: fengwz##ios.ac.cn (replace ## to @)
 
 **My [resume](files/WeizhiFengCV.pdf)**.
 
-<!-- # 🔥 News {#news}
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News {#news}
+- *2025.06*: &nbsp;🎉🎉 This webpage has been deployed! 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
 # [Publications](https://dblp.org/pid/278/3051.html) {#publications}
