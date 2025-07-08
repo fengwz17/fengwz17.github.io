@@ -14,11 +14,15 @@ Contact me: fengwz##ios.ac.cn (replace ## to @)
 **My [resume](files/WeizhiFengCV.pdf)**.
 
 # 🔥 News {#news}
+- *2025.07*: &nbsp;🎉🎉 One paper has been accepted by ICCAD 2025. Congrats to Shidong!
 - *2025.06*: &nbsp;🎉🎉 This webpage has been deployed! 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
 # [Publications](https://dblp.org/pid/278/3051.html) {#publications}
+
+- ***BMCFuzz: Hybrid Verification of Processors by Synergistic Integration of Bound Model Checking and Fuzzing.*** <br>
+Shidong Shen, Jinyu Liu, **Weizhi Feng**, Fu Song and Zhilin Wu in The 2025 International Conference on Computer-Aided Design(ICCAD), 2025.
 
 - ***[Formally Verifying Arithmetic Chisel Designs for All Bit Widths at Once.](https://dl.acm.org/doi/10.1145/3649329.3657311)*** <br>
   **Weizhi Feng**, Yicheng Liu, Jiaxiang Liu, David N Jansen, Lijun Zhang, Zhilin Wu.
