@@ -22,7 +22,7 @@ Contact me: fengwz##ios.ac.cn (replace ## to @)
 # [Publications](https://dblp.org/pid/278/3051.html) {#publications}
 
 - ***BMCFuzz: Hybrid Verification of Processors by Synergistic Integration of Bound Model Checking and Fuzzing.*** <br>
-Shidong Shen, Jinyu Liu, **Weizhi Feng**, Fu Song and Zhilin Wu in The 2025 International Conference on Computer-Aided Design(ICCAD), 2025.
+Shidong Shen, Jinyu Liu, **Weizhi Feng**, Fu Song and Zhilin Wu in The 2025 International Conference on Computer-Aided Design(**ICCAD**), 2025.
 
 - ***[Formally Verifying Arithmetic Chisel Designs for All Bit Widths at Once.](https://dl.acm.org/doi/10.1145/3649329.3657311)*** <br>
   **Weizhi Feng**, Yicheng Liu, Jiaxiang Liu, David N Jansen, Lijun Zhang, Zhilin Wu.
