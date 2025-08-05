@@ -11,7 +11,7 @@ My research interest includes *Formal Verification for Software and Hardware Pro
 
 Contact me: fengwz##ios.ac.cn (replace ## to @)
 
-**My [resume](files/WeizhiFengCV.pdf)**.
+<!-- **My [resume](files/WeizhiFengCV.pdf)**. -->
 
 # 🔥 News {#news}
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by ICCAD 2025. Congrats to Shidong!
