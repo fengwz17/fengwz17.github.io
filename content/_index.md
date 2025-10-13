@@ -14,6 +14,7 @@ Contact me: fengwz##ios.ac.cn (replace ## to @)
 <!-- **My [resume](files/WeizhiFengCV.pdf)**. -->
 
 # 🔥 News {#news}
+- *2025.10*: &nbsp;🎉🎉 One paper has been accepted by Journal of Software (软件学报)!
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by ICCAD 2025. Congrats to Shidong!
 - *2025.06*: &nbsp;🎉🎉 This webpage has been deployed! 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
