@@ -21,7 +21,7 @@ Contact me: fengwz##ios.ac.cn (replace ## to @)
 
 
 # [Publications](https://dblp.org/pid/278/3051.html) {#publications}
-- ***Survey on Solving SMT Formulas with Recursive Definitions (带递归定义的SMT公式求解技术综述). *** <br>
+- ***Survey on Solving SMT Formulas with Recursive Definitions (带递归定义的SMT公式求解技术综述).*** <br>
 **Weizhi Feng**, Jiaxiang Liu, Lijun Zhang, and Zhilin Wu in Journal of Software (软件学报), 2025.
 
 - ***BMCFuzz: Hybrid Verification of Processors by Synergistic Integration of Bound Model Checking and Fuzzing.*** <br>
