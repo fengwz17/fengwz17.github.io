@@ -38,20 +38,20 @@ disableKinds = ["taxonomy", "term", "RSS"]
       url = '#publications'
       weight = 3
     [[languages.en.menu.main]]
-      name = 'Honors and Awards'
-      url = '#honors-and-awards'
+      name = 'Work Experience'
+      url = '#work-experience'
       weight = 4
     [[languages.en.menu.main]]
       name = 'Educations'
       url = '#educations'
       weight = 5
     [[languages.en.menu.main]]
-      name = 'Talks'
-      url = '#talks'
+      name = 'Honors and Awards'
+      url = '#honors-and-awards'
       weight = 6
     [[languages.en.menu.main]]
-      name = 'Internships'
-      url = '#internships'
+      name = 'Talks'
+      url = '#talks'
       weight = 7
       
 [params]
