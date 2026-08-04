@@ -22,8 +22,8 @@ Contact me: fengwz##ios.ac.cn (replace ## to @)
 
 
 # [Publications](https://dblp.org/pid/278/3051.html) {#publications}
-- ***Can LLM Aid in Solving Constraints with Inductive Definitions?*** <br>
-**Weizhi Feng**, Shidong Shen, Jiaxiang Liu, Taolue Chen, Fu Song and Zhilin Wu in 27th International Symposium on Formal Methods(**FM**), 2026. (CCF A)
+- ***[Can LLM Aid in Solving Constraints with Inductive Definitions?](https://doi.org/10.1007/978-3-032-26220-2_6)*** <br>
+**Weizhi Feng**, Shidong Shen, Jiaxiang Liu, Taolue Chen, Fu Song and Zhilin Wu in the 27th International Symposium on Formal Methods(**FM**), 2026. (CCF A)
 
 - ***Survey on Solving SMT Formulas with Recursive Definitions (带递归定义的SMT公式求解技术综述).*** <br>
 **Weizhi Feng**, Jiaxiang Liu, Lijun Zhang, and Zhilin Wu in Journal of Software (软件学报), 2025. 
@@ -33,7 +33,7 @@ Shidong Shen, Jinyu Liu, **Weizhi Feng**, Fu Song and Zhilin Wu in The 2025 Inte
 
 - ***[Formally Verifying Arithmetic Chisel Designs for All Bit Widths at Once.](https://dl.acm.org/doi/10.1145/3649329.3657311)*** <br>
   **Weizhi Feng**, Yicheng Liu, Jiaxiang Liu, David N Jansen, Lijun Zhang, Zhilin Wu
-  in 61st ACM/IEEE Design Automation Conference (**DAC**), 2024. (CCF A) <br>
+  in the 61st ACM/IEEE Design Automation Conference (**DAC**), 2024. (CCF A) <br>
   <!-- <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a> -->
 
 - ***[On the power of finite ambiguity in Büchi complementation.](https://www.sciencedirect.com/science/article/abs/pii/S0890540123000330)*** <br>
@@ -48,15 +48,18 @@ Shidong Shen, Jinyu Liu, **Weizhi Feng**, Fu Song and Zhilin Wu in The 2025 Inte
   **Weizhi Feng**, Cheng-Chao Huang, Andrea Turrini, Yong Li
   in International Symposium on Dependable Software Engineering: Theories, Tools, and Applications (**SETTA**), 2020. (CCF C) <br>
 
-# Honors and Awards {#honors-and-awards}
-- *2024.12* First-Class Graduate Academic Scholarship. 
+
+# Work Experience {#work-experience}
+- *2024.12 - 2026.07*, Research Intern at [Ant Reasearch](https://www.antresearch.com/), Beijing, China.
+
 
 # Educations {#educations}
 - *2019.06 - (now)*, Institute of Software, Chinese Academy of Sciences. Computer Software and Thoery, Ph.D Candidate. 
 - *2015.09 - 2019.06*, School of EECS, Peking University. Computer Science and Technology, B.S.
 
-# Talks {#invited-talks}
-- *2024.06*, in the 61st ACM/IEEE Design Automation Conference (DAC), San Francisco, United States.
+# Honors and Awards {#honors-and-awards}
+- *2024.12* First-Class Graduate Academic Scholarship. 
 
-# Internships {#internships}
-- *2024.12 - (now)*, [Ant Reasearch](https://www.antresearch.com/), Beijing, China.
+# Talks {#invited-talks}
+- *2026.05*, in the 27th International Symposium on Formal Methods (FM), Tokyo, Japan.
+- *2024.06*, in the 61st ACM/IEEE Design Automation Conference (DAC), San Francisco, United States.
