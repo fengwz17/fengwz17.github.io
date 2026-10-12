@@ -50,7 +50,7 @@ Shidong Shen, Jinyu Liu, **Weizhi Feng**, Fu Song and Zhilin Wu in The 2025 Inte
 
 
 # Work Experience {#work-experience}
-- *2024.12 - 2026.07*, Research Intern at [Ant Reasearch](https://www.antresearch.com/), Beijing, China.
+- *2024.12 - 2026.06*, Research Intern at [Ant Reasearch](https://www.antresearch.com/), Beijing, China.
 
 
 # Educations {#educations}
