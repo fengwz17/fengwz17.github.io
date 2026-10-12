@@ -14,6 +14,7 @@ Contact me: fengwz##ios.ac.cn (replace ## to @)
 <!-- **My [resume](files/WeizhiFengCV.pdf)**. -->
 
 # 🔥 News {#news}
+- *2026.04*: &nbsp;🎉🎉 Passed my PhD thesis defense. Congrats!
 - *2026.02*: &nbsp;🎉🎉 One paper has been accepted by FM 2026 (27th International Symposium on Formal Methods). Congrats!
 - *2025.10*: &nbsp;🎉🎉 One paper has been accepted by Journal of Software (软件学报)!
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by ICCAD 2025. Congrats to Shidong!
@@ -54,7 +55,7 @@ Shidong Shen, Jinyu Liu, **Weizhi Feng**, Fu Song and Zhilin Wu in The 2025 Inte
 
 
 # Educations {#educations}
-- *2019.06 - (now)*, Institute of Software, Chinese Academy of Sciences. Computer Software and Thoery, Ph.D Candidate. 
+- *2019.06 - 2026.06*, Institute of Software, Chinese Academy of Sciences. Computer Software and Thoery, Ph.D Candidate. 
 - *2015.09 - 2019.06*, School of EECS, Peking University. Computer Science and Technology, B.S.
 
 # Honors and Awards {#honors-and-awards}
