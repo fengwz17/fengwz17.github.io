@@ -55,7 +55,7 @@ Shidong Shen, Jinyu Liu, **Weizhi Feng**, Fu Song and Zhilin Wu in The 2025 Inte
 
 
 # Educations {#educations}
-- *2019.06 - 2026.06*, Institute of Software, Chinese Academy of Sciences. Computer Software and Thoery, Ph.D Candidate. 
+- *2019.06 - 2026.06*, Institute of Software, Chinese Academy of Sciences. Computer Software and Thoery, Ph.D. 
 - *2015.09 - 2019.06*, School of EECS, Peking University. Computer Science and Technology, B.S.
 
 # Honors and Awards {#honors-and-awards}
